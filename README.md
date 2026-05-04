@@ -1,1 +1,2 @@
-# GYMForce
+# Gym
+Gym equipment website
